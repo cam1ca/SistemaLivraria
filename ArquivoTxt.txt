@@ -1,0 +1,9 @@
+Co-intelligence: Living and Working with AI,154869,Independente,Inteligencia Artificial,2024,90,7
+Supremacy: AI, ChatGPT, and the Race that Will Change the World,514878,Bloomberg,Inteligencia Artificial,2024,75,18
+Nexus: A Brief History of Information Networks from the Stone Age to AI,457895,HarperCollins,Tecnologia e Ética,2024,81,2
+The Corporate Life Cycle: Business, Investment, and Management Implications,458791,Wiley,Negócios e Tecnologia,2024,101,4
+Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence,985476, Yale University Press,Filosofia da Tecnologia,2021,60,1
+Senhor dos Anéis,256487,LOTR,Aventura,2001,150.0,20
+Co-intelligence: Living and Working with AI,154869,Independente,Inteligencia Artificial,2024,90.0,7
+Nexus: A Brief History of Information Networks from the Stone Age to AI,457895,HarperCollins,Tecnologia e Ética,2024,81.0,2
+Amiga genial,20241589,Independente,Romance,2007,110.0,2
